@@ -1,0 +1,16 @@
+body {
+    background-color: lightgreen;
+    background-image: linear-gradient(lightblue, green)
+}
+
+.contact {
+    margin: 0px;
+}
+
+.name {
+    text-align: left;
+    font-family: sans-serif;
+}
+.profile {
+    left: 60px;
+}
